@@ -1,0 +1,98 @@
+Route,Border type or inland,Nationality,OCT2013,NOV2013,DEC2013,JAN2014,FEB2014,MAR2014,APR2014,MAY2014,JUN2014,JUL2014,AUG2014,SEP2014,OCT2014,NOV2014,DEC2014,TOTAL
+,,SUM,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
+Central Mediterranean Route,Sea,Syria,3298,161,455,290,253,782,2348,2635,2949,4415,7597,8747,3831,2782,3022,43565
+Central Mediterranean Route,Sea,Eritrea,1261,294,621,40,410,1146,5711,4962,6122,6077,3319,3980,1339,313,140,35735
+Central Mediterranean Route,Sea,Unspecified sub-Saharan nationals,0,0,0,0,0,619,4431,1138,5524,4900,3611,3627,2054,340,96,26340
+Central Mediterranean Route,Sea,Mali,304,71,311,286,836,663,580,1409,1763,972,899,562,367,607,431,10061
+Central Mediterranean Route,Sea,Gambia,748,229,330,370,513,441,246,536,1299,856,740,1021,608,989,930,9856
+Central Mediterranean Route,Sea,Nigeria,524,35,224,66,100,422,479,872,605,1423,1127,1094,1076,818,151,9016
+Central Mediterranean Route,Sea,Palestine^,674,27,32,53,32,48,90,259,376,570,1300,1366,871,589,369,6656
+Central Mediterranean Route,Sea,Somalia,266,114,9,122,414,338,280,604,541,922,454,467,1022,396,225,6174
+Central Mediterranean Route,Sea,Senegal,456,50,160,302,324,210,91,318,377,395,309,363,752,681,599,5387
+Central Mediterranean Route,Sea,Egypt,184,121,110,178,1,135,414,346,761,715,725,565,269,229,4,4757
+Central Mediterranean Route,Sea,Bangladesh,33,9,26,21,18,23,57,104,104,483,1497,1484,388,24,0,4271
+Central Mediterranean Route,Sea,Pakistan,212,63,102,275,104,228,209,326,56,327,959,381,375,156,61,3834
+Central Mediterranean Route,Sea,Sudan,17,9,1,9,12,39,70,206,362,615,587,508,651,108,7,3201
+Central Mediterranean Route,Sea,Morocco,32,2,18,37,45,71,196,203,550,280,440,316,167,167,24,2548
+Central Mediterranean Route,Sea,Ghana,89,27,23,8,19,86,59,168,387,334,215,416,324,137,26,2318
+Central Mediterranean Route,Sea,Tunisia,105,94,96,38,38,37,67,143,194,142,223,354,327,78,42,1978
+Central Mediterranean Route,Sea,Côte d'Ivoire,22,0,12,15,33,47,63,77,116,159,201,189,141,313,139,1527
+Central Mediterranean Route,Sea,Guinea,51,13,36,24,63,84,61,93,279,145,105,115,69,165,157,1460
+Central Mediterranean Route,Sea,Afghanistan,149,5,1,2,20,41,110,4,131,67,159,80,109,90,30,998
+Central Mediterranean Route,Sea,Iraq,13,0,0,1,1,0,4,2,21,42,119,89,129,120,171,712
+Central Mediterranean Route,Sea,Ethiopia,27,2,7,0,12,4,62,63,47,49,112,80,72,35,24,596
+Central Mediterranean Route,Sea,Guinea-Bissau,30,4,2,15,38,0,0,1,60,4,4,31,52,12,32,285
+Central Mediterranean Route,Sea,Burkina Faso,8,1,1,7,8,8,9,11,10,36,32,26,27,28,9,221
+Central Mediterranean Route,Sea,Libya,2,0,0,0,0,0,0,20,5,4,35,39,72,25,2,204
+Central Mediterranean Route,Sea,Algeria,2,19,1,0,0,4,1,8,18,4,81,15,36,9,2,200
+Central Mediterranean Route,Sea,Sierra Leone,8,5,5,4,14,18,2,6,41,14,11,35,18,13,6,200
+Central Mediterranean Route,Sea,Congo (Brazzaville),1,0,0,1,0,1,0,0,9,11,34,52,26,12,1,148
+Central Mediterranean Route,Sea,Togo,6,0,4,1,1,5,5,15,13,36,10,9,12,7,2,126
+Central Mediterranean Route,Sea,Cameroon,1,0,3,3,13,4,3,9,5,11,22,20,12,13,1,120
+Central Mediterranean Route,Sea,Benin,5,0,0,0,0,2,16,19,18,22,10,2,12,3,2,111
+Central Mediterranean Route,Sea,Central African Republic,0,0,80,0,5,3,2,4,1,4,2,4,0,3,1,109
+Central Mediterranean Route,Sea,Chad,3,0,0,0,1,0,1,22,14,12,15,23,3,2,0,96
+Central Mediterranean Route,Sea,Iran,19,0,0,0,0,5,2,0,0,25,13,10,2,1,7,84
+Central Mediterranean Route,Sea,Nepal,2,0,0,0,3,24,1,0,1,7,4,0,13,10,0,65
+Central Mediterranean Route,Sea,Niger,0,0,0,0,0,0,0,0,1,7,7,8,18,8,5,54
+Central Mediterranean Route,Sea,Mauritania,1,0,1,0,2,3,0,5,6,3,6,9,1,4,2,43
+Central Mediterranean Route,Sea,India,1,2,5,0,0,0,1,5,1,4,21,0,1,0,0,41
+Central Mediterranean Route,Sea,Liberia,6,3,4,1,1,3,4,2,3,4,2,2,1,1,4,41
+Central Mediterranean Route,Sea,Yemen,0,0,0,1,0,2,3,1,0,2,4,6,9,1,0,29
+Central Mediterranean Route,Sea,Lebanon,2,0,0,0,0,1,0,0,0,1,1,13,0,1,1,20
+Central Mediterranean Route,Sea,Jordan,0,0,0,0,0,0,0,0,1,0,9,1,1,0,0,12
+Central Mediterranean Route,Sea,Turkey,0,0,0,0,0,0,0,0,3,2,3,0,1,2,0,11
+Central Mediterranean Route,Sea,Ukraine,0,0,0,0,0,3,0,0,0,0,0,2,0,0,3,8
+Central Mediterranean Route,Sea,Comoros,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,6
+Central Mediterranean Route,Sea,Sri Lanka,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,6
+Central Mediterranean Route,Sea,Kenya,0,0,0,0,0,0,0,0,2,0,1,0,0,0,2,5
+Central Mediterranean Route,Sea,Zambia,0,0,0,0,0,0,0,0,1,0,1,2,0,0,1,5
+Central Mediterranean Route,Sea,Gabon,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,4
+Central Mediterranean Route,Sea,Kyrgyzstan,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4
+Central Mediterranean Route,Sea,Malawi,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Central Mediterranean Route,Sea,Philippines,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,3
+Central Mediterranean Route,Sea,Russia,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+Central Mediterranean Route,Sea,Albania,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Central Mediterranean Route,Sea,Oman,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+Central Mediterranean Route,Sea,Saudi Arabia,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2
+Central Mediterranean Route,Sea,Belize,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Central Mediterranean Route,Sea,Burundi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Central Mediterranean Route,Sea,Djibouti,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Central Mediterranean Route,Sea,Georgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Central Mediterranean Route,Sea,Myanmar,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Central Mediterranean Route,Sea,South Africa,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Central Mediterranean Route,Sea,Uganda,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Central Mediterranean Route,Sea,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Central Mediterranean Route,Sea,Uzbekistan,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Central Mediterranean Route,Sea,Zimbabwe,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Central Mediterranean Route,Sea,Angola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Azerbaijan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Belarus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Bermuda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Cape Verde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,China,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Congo (Kinshasa),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Dominica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Equatorial Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,French Guiana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Haiti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Israel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Jamaica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Kazakhstan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Kosovo*,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Kuwait,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Lesotho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Madagascar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Malaysia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Mauritius,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Moldova,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Namibia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Panama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Rwanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Serbia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,South Sudan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Stateless,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Tajikistan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Tanzania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Third-country,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Mediterranean Route,Sea,Vietnam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
