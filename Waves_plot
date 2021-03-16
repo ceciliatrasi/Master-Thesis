@@ -1,0 +1,29 @@
+
+library(ggpubr)
+
+# Waves load data
+waves <- read.csv("waves.csv")
+
+#elimino x 
+waves$X <- NULL
+
+#create season
+waves <- waves %>% 
+  mutate(season = 
+           ifelse(month %in% c(12, 1, 2), "Winter",
+                  ifelse(month %in% c(3, 4, 5), "Spring",
+                         ifelse(month %in% c(6, 7, 8), "Summer",
+                                ifelse(month %in% c(9, 10, 11), "Fall", "Error")))))
+# gwave 
+  gwave3  <- ggplot(waves, aes(season, SWH)) +
+    geom_line(data = waves, aes(x = season, y = SWH)) +
+    labs(title = "Seasonal Wave Height 2014-2019 ",
+         y = " Avg.Wave Height (m)", x = "Season") + 
+    facet_wrap( ~year)
+  
+  #Eccolo
+  gwave3 + theme(plot.title = element_text(size = 11, hjust = 0.5))
+ 
+
+
+  
