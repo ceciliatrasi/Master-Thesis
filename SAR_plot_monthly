@@ -1,0 +1,26 @@
+#montlhy 
+#load data
+datasar <- read.csv("SAR3.csv")
+
+#rename actors 
+mydata2 <-  datasar %>% 
+  mutate(actor= recode(actor, "Ita Coast Guard" = "Italian Coast Guard", "Ita Navy" = "Italian Navy", "Frontex" = "Triton", 
+                       "Comm.Vessel" = "Commercial Vessel", "Ngo"= "NGOs", "Foreign mil ship"= "Foreign Military Ship", "Sophia"="Operation Sophia", 
+                       "Guardia Finanza"= "Guardia di Finanza", "Carabinieri"= "Carabinieri"))
+
+#create the gigi 
+plot3 <- ggplot( mydata2, aes(YYY_MMM, rescues)) +
+  geom_col(data = mydata2, aes(x = YYY_MMM, y = rescues)) +
+  labs(title = "N. of Migrants Rescued by Actor 2014-2018", 
+       y = "Number of Rescues", x = "Time") + 
+  facet_wrap( ~ actor)
+
+# plot the gigi graph
+plot3 + theme(plot.title = element_text(size = 10, hjust = 0.5), 
+              axis.text.x=element_blank(), 
+              panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+
+
+
+
