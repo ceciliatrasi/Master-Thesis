@@ -1,0 +1,24 @@
+# plot SAR YEARLY 
+theme_set(theme_bw())
+library(ggplot2)
+#load data
+sar33 <- read.csv("SAR_yearly .csv")
+
+#rename SAR actors
+
+mydata <-  sar33 %>% 
+  mutate(actor= recode(actor, "Ita Coast Guard" = "Italian Coast Guard", "Ita Navy" = "Italian Navy", "Frontex" = "Triton", 
+                       "Comm.Vessel" = "Commercial Vessel", "Ngo"= "NGOs", "Foreign mil ship"= "Foreign Military Ship", "Sophia"="Operation Sophia", 
+                       "Guardia Finanza"= "Guardia di Finanza", "Carabinieri"= "Carabinieri"))
+
+
+#plot yearly SAR 
+
+g1 <- ggplot( mydata, aes(year, rescues)) +
+  geom_col(data = mydata, aes(x = year, y = rescues)) +
+  labs(title = "N. of Migrants Rescued by Actor 2014-2018", 
+       y = "Number of Rescues", x = "Year") + 
+  facet_wrap( ~ actor)
+
+#eccolo: 
+g1 + theme(plot.title = element_text(size = 10, hjust = 0.5)) + scale_x_continuous(breaks= 2014:2018)
